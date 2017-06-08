@@ -5,7 +5,7 @@
 			"major" : 7,
 			"minor" : 3,
 			"revision" : 3,
-			"architecture" : "x64",
+			"architecture" : "x86",
 			"modernui" : 1
 		}
 ,
@@ -660,7 +660,7 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 40.0, 140.0, 91.0, 57.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1.0, 1.0, 112.0, 68.0 ],
+					"presentation_rect" : [ 0.0, 0.0, 161.0, 95.0 ],
 					"range" : 12,
 					"style" : "",
 					"whitekeycolor" : [ 0.13, 0.13, 0.13, 1.0 ]

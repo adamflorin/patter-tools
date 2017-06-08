@@ -5,7 +5,7 @@
 			"major" : 7,
 			"minor" : 3,
 			"revision" : 3,
-			"architecture" : "x64",
+			"architecture" : "x86",
 			"modernui" : 1
 		}
 ,
@@ -97,7 +97,7 @@
 					"outlettype" : [ "float" ],
 					"patching_rect" : [ 90.0, 360.0, 49.0, 22.0 ],
 					"style" : "",
-					"text" : "* 0.075"
+					"text" : "* 0.15"
 				}
 
 			}
