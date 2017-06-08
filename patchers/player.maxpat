@@ -121,7 +121,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 3,
 					"numoutlets" : 0,
-					"patching_rect" : [ 607.5, 900.0, 67.0, 22.0 ],
+					"patching_rect" : [ 607.5, 900.0, 119.0, 22.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 216.0, 379.0, 160.0, 22.0 ],
 					"style" : "",
@@ -2902,18 +2902,18 @@
 			}
  ],
 		"parameters" : 		{
-			"obj-136" : [ "live.text[16]", "live.text", 0 ],
-			"obj-134" : [ "live.text[14]", "live.text", 0 ],
+			"obj-138" : [ "live.text[17]", "live.text", 0 ],
+			"obj-62" : [ "live.text[9]", "live.text", 0 ],
+			"obj-68" : [ "live.text[24]", "live.text", 0 ],
 			"obj-119" : [ "live.text[10]", "live.text", 0 ],
-			"obj-94" : [ "live.text[25]", "live.text", 0 ],
 			"obj-120" : [ "live.text[11]", "live.text", 0 ],
+			"obj-136" : [ "live.text[16]", "live.text", 0 ],
+			"obj-94" : [ "live.text[25]", "live.text", 0 ],
+			"obj-134" : [ "live.text[14]", "live.text", 0 ],
 			"obj-96" : [ "live.text[26]", "live.text", 0 ],
 			"obj-135" : [ "live.text[15]", "live.text", 0 ],
 			"obj-121" : [ "live.text[12]", "live.text", 0 ],
-			"obj-125" : [ "live.text[13]", "live.text", 0 ],
-			"obj-138" : [ "live.text[17]", "live.text", 0 ],
-			"obj-62" : [ "live.text[9]", "live.text", 0 ],
-			"obj-68" : [ "live.text[24]", "live.text", 0 ]
+			"obj-125" : [ "live.text[13]", "live.text", 0 ]
 		}
 ,
 		"dependency_cache" : [ 			{
