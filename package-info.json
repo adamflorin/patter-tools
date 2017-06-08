@@ -1,0 +1,38 @@
+{
+	"author" : "Adam Florin",
+	"authors" : [  ],
+	"description" : "Patter Tools contains a minimal generative sequencer based on the Max For Live device Patter, as well as supporting externals and patchers.",
+	"displayname" : "",
+	"extends" : "",
+	"extensible" : 0,
+	"homepatcher" : "patter-tools.maxpat",
+	"max_version_max" : "6.1",
+	"max_version_min" : "6.1",
+	"name" : "Patter Tools",
+	"os" : 	{
+		"macintosh" : 		{
+			"platform" : [ "ia32", "x64" ],
+			"min_version" : "10.7.x"
+		}
+,
+		"windows" : 		{
+			"platform" : [ "x64", "ia32" ],
+			"min_version" : "7"
+		}
+
+	}
+,
+	"package_extra" : 	{
+
+	}
+,
+	"tags" : [ "generative", "timing", "random", "algorithmic", "midi", "sequencer" ],
+	"version" : "1.0.0",
+	"website" : "http://playpatter.com/",
+	"filelist" : 	{
+		"externals" : [ "cue.mxe", "cue.mxe64", "cue.mxo", "normalrandom.mxe", "normalrandom.mxe64", "normalrandom.mxo" ],
+		"patchers" : [ "generator.maxpat", "keyboard-map.maxpat", "patter-tools.maxpat", "player.maxpat" ],
+		"help" : [ "cue.maxhelp", "normalrandom.maxhelp" ]
+	}
+
+}
